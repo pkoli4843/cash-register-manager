@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cash-register-manager/static/css/main.3b9280ba.chunk.css",
+    "main.js": "/cash-register-manager/static/js/main.bb75acc3.chunk.js",
+    "runtime-main.js": "/cash-register-manager/static/js/runtime-main.72fa61eb.js",
+    "static/js/2.8b551482.chunk.js": "/cash-register-manager/static/js/2.8b551482.chunk.js",
+    "static/js/3.7888d20e.chunk.js": "/cash-register-manager/static/js/3.7888d20e.chunk.js",
+    "index.html": "/cash-register-manager/index.html",
+    "static/js/2.8b551482.chunk.js.LICENSE.txt": "/cash-register-manager/static/js/2.8b551482.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72fa61eb.js",
+    "static/js/2.8b551482.chunk.js",
+    "static/css/main.3b9280ba.chunk.css",
+    "static/js/main.bb75acc3.chunk.js"
+  ]
+}
